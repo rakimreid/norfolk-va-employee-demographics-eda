@@ -2,41 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/23224784/229382934-8feae925-e900-41d3-b323-a5676a5d30ce.png)
 
-
-Exploratory Data Analysis of City of Norfolk, VA Employee Demographics
-
-
 # Background
 
 The information in this section is from API dataset description page. 
 DESCRIPTION
 This dataset provides demographic information about City of Norfolk employees.  The data is provided by Norfolk’s Department of Human Resources and is updated daily. 
 
-KEYWORDS
-Norfolk, Demographics, Position, military Service, Human Resources
-
-AUDIENCE
-Residents, City Employees, Municipalities, General Public, Media
-
-DEPARTMENT
-Human Resources
-
-ACCESSIBILITY
-The data is publicly available and accessible.
-
-RESTRICTIONS
-No restrictions
-
-HOW OFTEN DATA IS UPDATED
-Daily
-
-TIMEFRAME DATA ENCOMPASSES 
-One Year
-
-DATASET DOES NOT CONTAIN
-Personally Identifiable Information (PII) for privacy purposes. 
-
-RESOURCES
 City of Norfolk Human Resources Website - https://www.norfolk.gov/index.aspx?nid=192
 
 
@@ -66,5 +37,5 @@ The following findings were of interest:
 
 1) Statistical tests between groups to see differences on time metrics or counts (e.g. chi-square) 
 
-2) A deeper time series analysis 
+2) A deeper time series analysis. 
 
